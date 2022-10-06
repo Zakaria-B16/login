@@ -33,10 +33,10 @@
   width: 100%;
 }
 #kc-header .kc-logo-text {
-  background-image: url(../img/Namla-logo.png);
+  background-image: url(../img/niagara-logo.png);
   background-position: center;
   background-repeat: no-repeat;
-  height: 63px;
+  height: 100px;
   width: 100%;
   margin: 0 auto;
 }
@@ -56,7 +56,7 @@
 }
 .card-pf #kc-page-title {
   font-size: 24px;
-  color: #0052cc;
+  color: #3249fe;
   margin: 0;
 }
 .card-pf #kc-content {
@@ -91,11 +91,11 @@
 }
 .card-pf #kc-content #kc-form-login .form-group input[type=text]:focus, .card-pf #kc-content #kc-form-login .form-group input[type=password]:focus {
   outline: none;
-  border-color: #0052cc;
+  border-color: #3249fe;
 }
 .card-pf #kc-content #kc-form-login .form-group input[type=submit] {
   height: 40px;
-  background-color: #0052cc;
+  background-color: #3249fe;
   border: none;
   color: #fff;
   border-radius: 0.3em;
@@ -105,8 +105,8 @@
   font-size: 16px;
 }
 .card-pf #kc-content #kc-form-login .form-group input[type=submit]:hover {
-  background-color: #0048b3;
+  background-color: #1932fe;
 }
 .card-pf #kc-content #kc-form-login .form-group input[type=submit]:disabled {
-  background-color: #80b3ff;
+  background-color: #e4e7ff;
 }/*# sourceMappingURL=styles.css.map */
